@@ -5,7 +5,7 @@ Lab 5: First 3D Game
 
 🎮 เล่นเกม
 
-👉 คลิกที่นี่เพื่อเล่นเกม
+👉 คลิกที่นี่เพื่อเล่นเกม https://techineethamoontree.github.io/-gamedev2026-project/lab5.html
 
 📖 เกี่ยวกับเกม
 
